@@ -8,6 +8,12 @@ The aim of this project is to develop a robust and accurate model for detecting 
 
 ## Research questions
 
+### Primary Question 
+
+Can we build models that can predict whether or not data has been anonimized?
+
+### Secondary Questions
+
 Which algorithm - KNN or Random Forests - is more efficient for our purpose of detecting confidential information?
 
 How does the model's performance vary across different confidential data formats, such as patient names, doctor names, patient IDs, and location details?
